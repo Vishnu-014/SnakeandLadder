@@ -13,7 +13,7 @@ Use the npm manager [npm](https://nodejs.org/en) to install packages.
 git clone https://github.com/Vishnu-014/SnakeandLadder.git
 ```
 
-Navigate into Apple Music and install the necessary packages
+Navigate into project folder and install the necessary packages
 
 ```bash
 npm install
